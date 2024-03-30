@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ideas & BombSquad**
 
-- 🌱 I’m currently learning **Building a Telegram bot with Python**
+- 🌱 I’m currently learning **Html language & Building a Telegram bot with Python**
 
 - ❤️ My love is **Python**
 
