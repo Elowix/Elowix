@@ -6,16 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-0&label=Profile%20views&color=0e75b6&style=flat" alt="erfan-0" /> </p>
 
-- 🔭 I’m currently working on **Ideas & BombSquad**
-
-- 🌱 I’m currently learning **Html language & Building a Telegram bot with Python**
-
-- ❤️ My love is **Python**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Erfan-0)
-
-- 📫 How to reach me **Discord(username: erfan.0)**
-
 <h3 align="left"></h3>
 <p align="left"> 
 </p>
