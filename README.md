@@ -11,7 +11,7 @@
 </p>
 
 # 💫 About Me:
-🧒 He/Him<br>🔭 I’m currently working on ideas & BombSquad<br>🌱 I’m currently learning Html & Css<br>❤️ Python-Linux 
+🧒 He/Him<br>🔭 I’m currently working on ideas & Bsbox<br>🌱 I’m currently learning Html & Css<br>❤️ Python-Linux 
 
 
 ## 🌐 Socials:
