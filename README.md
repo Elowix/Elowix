@@ -4,7 +4,6 @@
 <h3 align="center">A Python programmer who delves deep into their thoughts, wrestling with ideas</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-0&label=Profile%20views&color=0e75b6&style=flat" alt="erfan-0" /> </p>
 
 
 
