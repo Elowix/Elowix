@@ -1,5 +1,5 @@
-# Hello there! 👋
-I'm 𝐄𝐫𝐟𝐚𝐧, a programmer who deeply searches within their thoughts for strange and unusual ideas
+<h1 align="center">Hey!, I'm 𝐄𝐫𝐟𝐚𝐧</h1>
+<h3 align="center">A Python programmer who delves deep into their thoughts, wrestling with ideas</h3>
 
 ⚙️ **Founder**: Passionate about server management and community-driven gameplay at [**BSBOX**](https://bsbox.ir/), powered by [**Overclocked**](https://gamejolt.com/games/overclocked/867312)
 
