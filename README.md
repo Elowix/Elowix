@@ -1,5 +1,5 @@
 
-<h3 align="">Hello there! 👋</h3>
+<h3 align="">Hey there! 👋</h3>
 
 <h4 algin="">I'm 𝐄𝐫𝐟𝐚𝐧, A programmer who deeply searches within their thoughts for strange and unusual ideas 🌀</h4>
 <h3 algin=""></h3>
