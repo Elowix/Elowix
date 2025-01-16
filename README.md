@@ -1,4 +1,4 @@
-# Welcome to Elowix's World of Innovation! 🌟
+# Welcome to Elowix's World of Innovation! 
 
 Hey there, curious minds! 👋  
 I’m **𝗘𝗹𝗼𝘄𝗶𝘅**, a passionate programmer on a mission to turn wild ideas into reality. 🚀  
